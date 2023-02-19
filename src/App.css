@@ -5,6 +5,8 @@
 }
 
 .App {
+  margin: 0px;
+  padding: 10px;
   display: flex;
   text-align: center;
   justify-content: center;
